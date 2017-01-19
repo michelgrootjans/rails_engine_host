@@ -45,3 +45,5 @@ group :development do
   gem 'spring'
 end
 
+gem 'goals', path: '../goals'
+# gem 'goals', git: 'git@github.com:michelgrootjans/rails_engine.git'
